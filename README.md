@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsaacBradley
+- 👋 Hi, I’m Isaac Muuo on LinkedIn
 - I do Python, Java, C, C++, Javascript, 
 - 👀 I’m interested in Software development and Cyber Security
 - 🌱 I’m currently learning Kotlin and data science
