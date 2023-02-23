@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Isaac Muuo on LinkedIn
+- https://www.linkedin.com/in/isaac-muuo-894ba3230/
 - I do Python, Java, C, C++, Javascript, 
 - 👀 I’m interested in Software development and Cyber Security
 - 🌱 I’m currently learning Kotlin and data science
