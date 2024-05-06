@@ -7,7 +7,7 @@
 - 📫 How to reach me email: aimewizard2000@gmail.com    tel: +254741437712
 
 # MY PORTFOLIO
-- https://isaacmuuo.netlify.app/
+- https://isaacmuuo1.netlify.app/
 - https://www.linkedin.com/in/isaac-muuo-894ba3230/
 
 <!---
