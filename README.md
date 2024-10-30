@@ -1,10 +1,10 @@
 # BIO
 - 👋 Hi, I’m Isaac Muuo on LinkedIn
-- I do Python, Java, C, C++, Javascript.. Currently doing kotlin
+- I do Python, Java, C, C++, Javascript and Android Development.
 - 👀 I’m interested in Software development and Cyber Security
 - 🌱 I major in python: Data Science, Machine Learning and Web Applications
 - 💞️ I’m looking for collaborations on Software development projects
-- 📫 How to reach me email: aimewizard2000@gmail.com    tel: +254741437712
+- 📫 How to reach me email: aimewizard2000@gmail.com    tel: +2547 41 43 7712
 
 # MY PORTFOLIO
 - https://isaacmuuo1.netlify.app/
